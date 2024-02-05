@@ -46,7 +46,7 @@ node index.js
     * When a user enters their email address then this is added to the section of the README entitled Questions, with instructions on how to reach them with additional questions
     * When a user clicks on the links in the **Table of Contents** then they are taken to the corresponding section of the README
 
-* A walkthrough video that demonstrates the functionality of the README generator must be submitted, and a link to the video should be included in your README file.
+* A walkthrough video that demonstrates the functionality of the README generator: https://drive.google.com/file/d/1FiQi4bjWEdcfmhmij_2Sg-6zeQjaszCO/view
 
 * The walkthrough video must demonstrate how a user would invoke the application from the command line.
 
